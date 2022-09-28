@@ -2,3 +2,4 @@
     Sol:
         npm install react-native-screens react-native-safe-area-context
         rerun the react-native run-android
+     Ref: https://stackoverflow.com/questions/69043806/requirenativecomponent-rnsscreenstackheaderconfig-was-not-found-in-the-uimana
