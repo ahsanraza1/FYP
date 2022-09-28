@@ -1,0 +1,4 @@
+#0 : requireNativeComponent: "RNSScreenStackHeaderConfig" was not found in the UIManager 
+    Sol:
+        npm install react-native-screens react-native-safe-area-context
+        rerun the react-native run-android
